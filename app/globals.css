@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #050716;
+  color: white;
+}
+
+/* Add this to your CSS or in a <style> tag */
+.carousel-item {
+  margin-right: 20px; /* Adjust this value for the desired gap */
+}
+
+
+
+@layer base {
+  :root {
+    --radius: 0.5rem;
+  }
+}
