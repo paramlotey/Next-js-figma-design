@@ -6,7 +6,7 @@ const TermsPage = () => {
     <div className="flex flex-col items-center justify-center h-[90vh] text-white">
       <h1 className="text-5xl font-bold mb-4">📄 Terms 📄</h1>
       <p className="text-2xl italic text-center max-w-xl">
-        The page you're looking for is currently under development. Stay tuned
+        The page you&apos;re looking for is currently under development. Stay tuned
         for updates!
       </p>
       <div className="mt-10 flex space-x-4">
